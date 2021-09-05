@@ -352,6 +352,7 @@ img {
 
 #loginbtn {
   position: relative;
+  right:  10px;
   top: 13px;
 }
 

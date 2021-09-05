@@ -17,16 +17,16 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 3000); // Change image every 2 seconds
+  setTimeout(showSlides, 3000); // Change image every 3 seconds
 }
   
-    // let book = document.getElementById("book");
-    // let date = document.getElementsByName("date");
-    // let persons = document.getElementsByName("persons");
-    // let destination = document.getElementsByName("destination");
-    // let buslist = document.getElementsByName("buslist");
+    let book = document.getElementById("book");
+    let date = document.getElementsByName("date");
+    let persons = document.getElementsByName("persons");
+    let destination = document.getElementsByName("destination");
+    let buslist = document.getElementsByName("buslist");
 
 
-    // book.addEventListener("click", function(){
-    // console("Here are the details of your booking:" + date + persons + destination + buslist) 
-    // });
+    book.addEventListener("click", function(){
+    console("Here are the details of your booking:" + date + persons + destination + buslist) 
+    });
