@@ -1,7 +1,8 @@
 # olymbus
 Olympus tours dummy site
 
-This is a website I made as an exercise with plain Javascript, CSS and HTML.
+This is my first ever attempt to make a dummy website as an exercise with plain Javascript, CSS and HTML.
+
 
 ![Screenshot 2021-08-31 at 16 22 31](https://user-images.githubusercontent.com/85958036/131520938-4407042d-e4ad-4f14-92b0-a2412ba1ab7f.jpg)
 
